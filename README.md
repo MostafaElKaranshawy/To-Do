@@ -1,4 +1,4 @@
 # TODO web Application
 
-## Microsoft todo cloned application using Vuejs.
+## A Cloning Applicaiton of Microsoft todo using Vuejs.
 
